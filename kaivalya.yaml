@@ -3,8 +3,14 @@ memory:
     label: "Memory"
     notice:
       - 
+
+memory:
+  - type: memory
+    label: "Memory"
+    notice:
+      - 
   
-  - type: RDIMMs
+  - type: LRDIMMs
     size:
       - 
     notice:

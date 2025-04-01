@@ -1,0 +1,12 @@
+memory:
+  - type: memory
+    label: "Memory"
+    notice:
+      - 
+  
+  - type: RDIMMs
+    size:
+      - 
+    notice:
+     - 
+     - 

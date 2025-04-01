@@ -10,7 +10,7 @@ memory:
     notice:
       - 
   
-  - type: LRDIMMs
+  - type: kRDIMMs
     size:
       - 
     notice:
